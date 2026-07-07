@@ -1,5 +1,5 @@
 # Hi there, I'm Anna Catherine! 👋
- Artificial Intelligence Engineering Student | Women in Tech Lead at TinkerHub 🚀
+ Artificial Intelligence Engineering Student | Women in Tech Lead at TinkerHub 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/anna-catherine-966167335)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annacat12123@gmail.com)
 ---
